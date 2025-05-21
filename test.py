@@ -1,7 +1,7 @@
 import sys
 import os
 
-sys.path.append(os.path.join(os.path.dirname(__file__), "randominfo-master", "randominfo"))
+sys.path.append(os.path.join(os.path.dirname(__file__), "randominfo"))
 
 import __init__ as randominfo
 
